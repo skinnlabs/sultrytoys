@@ -9,7 +9,7 @@
   "short_name": "Sultry Toys",
   "start_url": "/",
   "theme_color": "#D41111",
-  "categories": [Adult, Shopping],
+  "categories": ["lifestyle", "shopping"],
   "screenshots": [],
   "icons": [
     {
@@ -29,16 +29,6 @@
       "sizes": "512x512"
     } 
   ],
-  "shortcuts": [],
-"file_handlers": [
-    {
-        "action": "https://app.sultrytoys.co.za",
-        "accept": {
-            "*/*": [
-                ".txt"
-            ]
-        }
-    }
-]
+  "shortcuts": []
 
 }
