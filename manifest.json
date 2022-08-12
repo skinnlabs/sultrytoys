@@ -3,28 +3,28 @@
   "description": "Grow Your Audience On Instagram, YouTube Spotify & More. We Provide World-Class Support & Afforable Packages. 100% Money-Back Guarantee.",
   "dir": "ltr",
   "display": "standalone",
-  "name": "VIRALME.org",
+  "name": "Sultry Toys South Africa",
   "orientation": "any",
   "scope": "/",
-  "short_name": "VIRALME",
+  "short_name": "Sultry Toys",
   "start_url": "/",
-  "theme_color": "#000000",
+  "theme_color": "#D41111",
   "categories": [],
   "screenshots": [],
   "icons": [
     {
-      "src": "https://za.viralme.org/app.png",
+      "src": "https://raw.githubusercontent.com/skinnlabs/sultrytoys/main/image%20(2).png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "https://za.viralme.org/app.png",
+      "src": "https://raw.githubusercontent.com/skinnlabs/sultrytoys/main/image%20(2).png",
       "type": "image/png",
       "sizes": "256x256"
     },
 
 {
-      "src": "https://za.viralme.org/app.png",
+      "src": "https://raw.githubusercontent.com/skinnlabs/sultrytoys/main/image%20(2).png",
       "type": "image/png",
       "sizes": "512x512"
     } 
